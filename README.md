@@ -13,7 +13,8 @@ This project represents among the first quantitative application of high-cadence
   * `discharge/`: Hydrological data from [USGS 08066500](https://waterdata.usgs.gov/monitoring-location/USGS-08066500/#dataTypeId=continuous-00065-0&period=P7D&showFieldMeasurements=true) .
 
 * **`notebooks/`**: Contains `analysis.ipynb`, the summary Jupyter Notebook that includes all analysis and generates all non-map manuscript figures.
-* **`figures/`**: Automatically generated directory where `analysis.ipynb` exports finalized, publication-ready manuscript plots.
+* **`figures/`**: Automatically generated directory where `analysis.ipynb` exports manuscript plots.
+* **`tables/`**: Automatically generated directory where `analysis.ipynb` exports manuscript tables.
 * **`environment.yml`** & **`requirements.txt`**: Dependency files for reproducing the exact Python environment.
 
 ## Getting Started
