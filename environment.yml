@@ -1,0 +1,17 @@
+name: trinity-river-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - scipy
+  - jupyter
+  - geopandas
+  - seaborn
+  - shapely
+  - pip
+  - pyarrow
+  - pip:
+      - rivabar
