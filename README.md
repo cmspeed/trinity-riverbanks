@@ -54,3 +54,8 @@ If you use `rivabar` your research, please cite the corresponding preprint:
   doi     = {10.22541/essoar.15005317/v1}
 }
 ```
+
+## License
+This repository contains both software and data, which are licensed separately:
+* **Code:** All scripts and Jupyter Notebooks are licensed under the [MIT License](LICENSE).
+* **Data:** All datasets, shapefiles, and GeoParquet files within the `data/` directory are licensed under a [Creative Commons Attribution 4.0 International License (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
