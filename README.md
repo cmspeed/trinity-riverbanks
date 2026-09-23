@@ -1,5 +1,7 @@
 # Coastal Trinity River Bankline Kinematics and Fluvial Preservation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22910346.svg)](https://doi.org/10.5281/zenodo.22910346)
+
 This repository contains the data, analysis code, and Jupyter Notebooks used to analyze bankline kinematics and fluvial preservation along the coastal Trinity River, Texas. It serves as the companion data and software repository for the associated peer-reviewed manuscript by Speed et al. (submitted to *JGR: Earth Surface*).
 
 The workflow utilizes high-cadence, 3m-resolution PlanetScope satellite imagery to provide a quantitative analysis of river bankline evolution at the flood-event scale. Channel banklines are delineated using the automated [rivabar](https://github.com/zsylvester/rivabar) and analyzed using [meandergraph](https://github.com/zsylvester/meandergraph). The provided data and code resolve meter-scale erosion, deposition, and event-scale stratigraphic preservation across a 90-river-kilometer reach of the coastal Trinity River over a seven-year period capturing a range of discharge regimes.
